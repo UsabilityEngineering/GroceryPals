@@ -40,21 +40,30 @@ The Strong "yes" response in this question proposes the idea that an "inventory"
 
 The responses here largely were largely evenly distributed. This shows that many different people and types of people go shopping for different reasons, and chose their store based upon both location, as well as either sales or specialty stock, usually not both. Incorporating both separately into the application will be helpful. 
 
-## Conclusions
+## Conclusion:
+Following the data from polling, all potential users are Chico State students, majority of our uses are born in the 1990’s, who frequently shop multiple times a week.  It’s a 50/50 of the limited polling, that use apps and other technology when shopping. There is definitely a point of strain for shoppers when there is lack of stock and missed sales, which this can be a huge opportunity for the app. 
+Caveats:
+Based on the data, we are only really limiting to Chico state students. This isn’t bad in itself, but Chico has a much more diverse population than just students, further poling would need to be done in the future if this application were to go into production.  
+Another point we see is that students mainly shop by proximity, so our app may have limited use and benefit, on the same token though, users may use the app to see if their local store has an item in stock and also may alert the user if a certain sale is occurring.  
 
-Discoveries derived from the method(s). For example, explain a requirement (e.g. “Task X needs to be accomplished with fewer steps. . . ”) based on a finding (e.g. “. . . because in our contextual inquiry, we found it was what the users did most often and complained about extraneous work needed to complete it”)
+## Personas:
+	James: Business major
+James is a Business administration major in his 20’s, who frequency shops multiple times a week. He has a busy schedule who often looks for cheap meals after he is done with class. He goes to many social events during the weekends and often looks for the best deal on certain beverages for these social events. He has a car, so he often carpools with other students to class. He works out multiple times week and often buys a certain protein drink from a select few places.
 
-## Caveats
 
-Considerations and/or limitations to the method(s) you chose and the findings/conclusions drawn from them. In other words, give warnings if there are limitations to your research such as not being able to find enough users of a particular demographic, the methods not being able to expose certain information, assumptions you made, etc.
+	Elizabeth: Engineering
+Elizabeth is a mechanical engineer student in her 20’s. She rides her bike to class and has a crazy work load. Shopping is the least of her worries since she as a crazy schedule. When she shops, she goes to the store closes to her apartment and grabs what she likes. On her free time she likes to sit at her computer and play a variety of video games, and enjoy her favorite brand of soda, in which she gets after class on Fridays. 
 
-## Personas
 
-Provide each of your user personas, which represent (potential) users of your software; explain how you derived these personas from your user inquiry
+Note: I derived from our information that our users are in their 20’s and are currently a Chico state student. Mostly they shop from proximity and specialized places. Around half uses app and other technology when shopping, while others do not use anything. 
 
-## Scenarios
 
-Identify the primary scenarios for your software and for each, include a description that explains who (of your personas) and what they want to do
+## Scenario 1: 
+It is a Friday and James just got out of class, he and his other frat members have a social event today. He and his friends hop into his car to get the beverages, before he drives off, he pulls out his phone and uses the Grocery Pals app to find the best deal on the said “beverages”. After finding the best deals, they drive over to the store and purchase the product.
+
+## Scenario 2:
+after class, Elizabeth found she has some free time. She’s thinking that she is getting low on her stockpile of soda, so she figures she should pick some more up after class. Before she heads home on her bike, she pulls up the Grocery pals app on her phone. She types in the brand of soda she usually buys and finds out that the soda usually goes on sale tomorrow. So instead of purchases the soda today, she decides to wait till tomorrow to purchase the drink. 
+
 
 ## Supplementary Materials
 
