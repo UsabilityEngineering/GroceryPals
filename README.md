@@ -8,10 +8,10 @@ Introduction
 * **Austin Dollar** - 
 
 Phase 1 Contributions:
-Introduction
-Executive Summary
-Methods
-Findings
+Introduction,
+Executive Summary,
+Methods,
+Findings,
 Supplementary Materials
 
 Phase 2 Contributions:
@@ -23,9 +23,9 @@ Phase 3 Contributions:
 * **Matthew Scheer** - 
 
 Phase 1 Contributions:
-Conclusions
-Caveats
-Personas
+Conclusions,
+Caveats,
+Personas,
 Scenarios
 
 Phase 2 Contributions:
