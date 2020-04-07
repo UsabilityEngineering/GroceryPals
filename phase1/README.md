@@ -42,7 +42,7 @@ The responses here largely were largely evenly distributed. This shows that many
 
 ## Conclusion:
 Following the data from polling, all potential users are Chico State students, majority of our uses are born in the 1990’s, who frequently shop multiple times a week.  It’s a 50/50 of the limited polling, that use apps and other technology when shopping. There is definitely a point of strain for shoppers when there is lack of stock and missed sales, which this can be a huge opportunity for the app. 
-Caveats:
+## Caveats:
 Based on the data, we are only really limiting to Chico state students. This isn’t bad in itself, but Chico has a much more diverse population than just students, further poling would need to be done in the future if this application were to go into production.  
 Another point we see is that students mainly shop by proximity, so our app may have limited use and benefit, on the same token though, users may use the app to see if their local store has an item in stock and also may alert the user if a certain sale is occurring.  
 
