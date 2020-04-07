@@ -38,7 +38,7 @@ Phase 3 Contributions:
 
 ## Phase 1: User Inquiry and Inspection
 
-* **Executive Summary**:
+**Executive Summary**:
 
 In this phase of the project, we:
 
@@ -46,10 +46,15 @@ In this phase of the project, we:
 
 * Analyzed the user data gathered through the survey to draw logical conclusions about our proposed product.
 
-* **data gathered:**
+**data gathered:**
 
-Our data gathered includes all user inputs into the survey
-* and most important outcomes
+* Our data gathered includes all user inputs into the survey, specific data will be linked in the **Supplementary Materials** Section in the Link Below
+
+**Most important outcomes**
+
+* All personas are Chico State Students
+* With the exception of two responses, nobody currently compares prices at the grocery store
+* An overwhelming majority of responses support the ability to compare prices across different stores
 
 [Full phase 1 report](phase1/)
 
