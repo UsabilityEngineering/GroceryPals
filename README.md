@@ -1,11 +1,38 @@
-# Project Name
+# Grocery Pal
 
-Introduction - a brief summary of the general problem being studied and addressed
+Introduction
 
-## Team Members
 
-* **Full Name 1** - Summary of contributions
-* **Full Name 2** - Summary of contributions
+## Team Members of Team Grocery Pals
+
+* **Austin Dollar** - 
+
+Phase 1 Contributions:
+Introduction
+Executive Summary
+Methods
+Findings
+Supplementary Materials
+
+Phase 2 Contributions:
+(to be added upon completion)
+
+Phase 3 Contributions:
+(to be added upon completion)
+
+* **Matthew Scheer** - 
+
+Phase 1 Contributions:
+Conclusions
+Caveats
+Personas
+Scenarios
+
+Phase 2 Contributions:
+(to be added upon completion)
+
+Phase 3 Contributions:
+(to be added upon completion)
 
 ## Phase 1: User Inquiry and Inspection
 
