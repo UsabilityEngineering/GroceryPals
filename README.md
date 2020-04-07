@@ -38,7 +38,9 @@ Phase 3 Contributions:
 
 ## Phase 1: User Inquiry and Inspection
 
-* Executive Summary of methods,
+* **Executive Summary**:
+
+
 * data gathered,
 * and most important outcomes
 
