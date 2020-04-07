@@ -1,4 +1,4 @@
-# Team Name, Phase 1: User Inquiry and Inspection
+# Grocery Pals, Phase 1: User Inquiry and Inspection
 
 ## Methods
 
