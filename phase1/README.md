@@ -22,6 +22,24 @@ Responses to this question was approximately a 50/50 split between "once a month
 
 * Would comparing the prices of different grocery stores be beneficial?
 
+The response to this question is the most critical, as it outlines whether or not our concept will be actually useful and used. Thankfully, we were presented with overwhelming "yes" responses, with the exception of three "maybe" responses. This provides significant feedback that our concept will actually be useful.
+
+* Do you often encounter items at the grocery store that are far more expensive than you initially thought?
+
+The response to this question was mixed, evenly distributed across all responses. This truly proves hoow unpredictable grocery shopping can be. 
+
+* Do you use any form of app or online method of making grocery lists? If so, what do you use?
+
+This question had a semi-decent response rate, and gave a feel for what the "competition" looks like. Overall, responses given vary, nd people use apps that are not entirely made for the express purpose of grocery lists, which gives feedback on the barrier of entry into the market.
+
+* Do you find that stores do not have the item you are looking for in stock?
+
+The Strong "yes" response in this question proposes the idea that an "inventory" section of our app miht be helpful and utilized. 
+
+* What factors determine where you do your grocery shopping?
+
+The responses here largely were largely evenly distributed. This shows that many different people and types of people go shopping for different reasons, and chose their store based upon both location, as well as either sales or specialty stock, usually not both. Incorporating both separately into the application will be helpful. 
+
 ## Conclusions
 
 Discoveries derived from the method(s). For example, explain a requirement (e.g. “Task X needs to be accomplished with fewer steps. . . ”) based on a finding (e.g. “. . . because in our contextual inquiry, we found it was what the users did most often and complained about extraneous work needed to complete it”)
