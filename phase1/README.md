@@ -26,4 +26,9 @@ Identify the primary scenarios for your software and for each, include a descrip
 
 ## Supplementary Materials
 
-Include link(s) or cop(ies) to your instrument(s) itself (questionnaire for a survey, protocol for an interview or contextual inquiry, etc)
+**Link to Admin version of Google Survey:**
+
+**Link to Poll Version of Google Survey:**
+
+**Link to Spreadsheet Containing Response Data:**
+
