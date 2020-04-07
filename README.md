@@ -1,6 +1,6 @@
 # Grocery Pal
 
-Introduction
+**Introduction: **
 In this project we tackle the issue of Grocery store pricing. Across different stores, especially in different areas,
 there are a variance in pricing and even stocking of many, if not all items sold in grocery stores. Our solution to this
 problem is to create a way for consumers to look at the different prices of items at nearby grocery stores. This will allow them to make a grocery list, and then see the total price of these items at nearby stores, so they may shop at the store which gives them the best overall price for the items they need.  
