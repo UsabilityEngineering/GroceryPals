@@ -40,7 +40,7 @@ Phase 3 Contributions:
 
 * **Executive Summary**:
 
-In this phase of the project, we implemented the methods of data gathering and gathered data with them. The method we chose was a google Survey. This is both logically sound, as well as a result of campus closure and social distancing we are now currently expieriencing. 
+In this phase of the project, we implemented the methods of data gathering and gathered data with them. The method we chose was a google Survey. This is both logically sound, as well as a result of campus closure and social distancing we are now currently expieriencing. The survey gives us feedback on the user expierience when grocery shopping, specifically in regards to prices. We wanted to see if our concept would actually be of use, and if people are looking for a better method of finding deals in the grocery store without having to dig through ads in the newspaper. 
 
 * data gathered,
 * and most important outcomes
