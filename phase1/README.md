@@ -10,7 +10,17 @@
 
 ## Findings
 
-For each method, describe the users you collected data from (demographics and how they represent your user base) and summarize the findings point-by-point (for example, the distribution of answers for a multiple-choice question). If you are researching existing software and/or competitor software, you may want to include pictures with call-outs that point out both important features and flaws within the interface.
+**Google Survey**
+
+* Demographics (Age)
+
+The demographics for our survey was incredibly diverse, which is amazing. The age of our responders ranged from 21 all the way to 79 years old. This, while a large portion is closer to the younger side, accurately represents our user base. This is because while our proposed app can be utilized by anyone, a large portion of the base will be a younger audience, as the older generation simply has less interest in new technology. However, some do, and that as a percentage of our users is accurately represented.
+
+* How often do you go grocery shopping?
+
+Responses to this question was approximately a 50/50 split between "once a month" and "multiple times a week." This distribution is important, as our users are shopping on a regular basis, thus proving that an app as proposed will save a lot of money over time. 
+
+* Would comparing the prices of different grocery stores be beneficial?
 
 ## Conclusions
 
