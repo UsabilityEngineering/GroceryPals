@@ -2,7 +2,11 @@
 
 ## Methods
 
-Describe (A) Methods you used (B) Why you used them, and (C) Number of users (e.g. n=10) for each method
+**Google Survey**
+
+* We Used this method as it made the most sense. Because it deals with cost and user preference instead of imprving an existing expierience, this made the most sense for our project, as we can design and shape or concept based upon user responses.
+
+* The number of responses gathered, n = 20
 
 ## Findings
 
