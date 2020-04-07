@@ -40,6 +40,7 @@ Phase 3 Contributions:
 
 * **Executive Summary**:
 
+In this phase of the project, we implemented the methods of data gathering and gathered data with them. The method we chose was a google Survey. This is both logically sound, as well as a result of campus closure and social distancing we are now currently expieriencing. 
 
 * data gathered,
 * and most important outcomes
