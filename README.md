@@ -46,11 +46,11 @@ In this phase of the project, we:
 
 * Analyzed the user data gathered through the survey to draw logical conclusions about our proposed product.
 
-**data gathered:**
+**Data Gathered:**
 
 * Our data gathered includes all user inputs into the survey, specific data will be linked in the **Supplementary Materials** Section in the Link Below
 
-**Most important outcomes**
+**Most Important Outcomes**
 
 * All personas are Chico State Students
 * With the exception of two responses, nobody currently compares prices at the grocery store
