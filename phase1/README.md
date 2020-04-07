@@ -62,7 +62,7 @@ Note: I derived from our information that our users are in their 20’s and are 
 It is a Friday and James just got out of class, he and his other frat members have a social event today. He and his friends hop into his car to get the beverages, before he drives off, he pulls out his phone and uses the Grocery Pals app to find the best deal on the said “beverages”. After finding the best deals, they drive over to the store and purchase the product.
 
 ## Scenario 2:
-after class, Elizabeth found she has some free time. She’s thinking that she is getting low on her stockpile of soda, so she figures she should pick some more up after class. Before she heads home on her bike, she pulls up the Grocery pals app on her phone. She types in the brand of soda she usually buys and finds out that the soda usually goes on sale tomorrow. So instead of purchases the soda today, she decides to wait till tomorrow to purchase the drink. 
+After class, Elizabeth found she has some free time. She’s thinking that she is getting low on her stockpile of soda, so she figures she should pick some more up after class. Before she heads home on her bike, she pulls up the Grocery pals app on her phone. She types in the brand of soda she usually buys and finds out that the soda usually goes on sale tomorrow. So instead of purchases the soda today, she decides to wait till tomorrow to purchase the drink. 
 
 
 ## Supplementary Materials
