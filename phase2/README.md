@@ -6,19 +6,19 @@ These are our wireframe Artboards:
   <a href="GroceryPals/phase2/Deals%20List.png"><img src="GroceryPals/phase2/Deals%20List.png" height="541" width="250"/></a>
 </kbd>
 <kbd>
-  <img src="https://github.com/UsabilityEngineering/GroceryPals/blob/master/phase2/SEARCH.png" height="541" width="250"/>
+  <img src="https://github.com/UsabilityEngineering/GroceryPals/blob/master/phase2/SEARCH.png" height="541" width="250"\>
 </kbd>
 <kbd>
-  <img src="https://github.com/UsabilityEngineering/GroceryPals/blob/master/phase2/MAP%20PAGE.png" height="541" width="250"/>
+  <img src="https://github.com/UsabilityEngineering/GroceryPals/blob/master/phase2/MAP%20PAGE.png" height="541" width="250"\>
 </kbd>
 <kbd>
-  <img src="https://github.com/UsabilityEngineering/GroceryPals/blob/master/phase2/SHOPPER.png" height="541" width="250"/>
+  <img src="https://github.com/UsabilityEngineering/GroceryPals/blob/master/phase2/SHOPPER.png" height="541" width="250"\>
 </kbd>
 <kbd>
-  <img src="https://github.com/UsabilityEngineering/GroceryPals/blob/master/phase2/SHOPPING%20LIST.png" height="541" width="250"/>
+  <img src="https://github.com/UsabilityEngineering/GroceryPals/blob/master/phase2/SHOPPING%20LIST.png" height="541" width="250"\>
 </kbd>
 <kbd>
-  <img src="https://github.com/UsabilityEngineering/GroceryPals/blob/master/phase2/SPECIFIC%20STORE.png" height="541" width="250"/>
+  <img src="https://github.com/UsabilityEngineering/GroceryPals/blob/master/phase2/SPECIFIC%20STORE.png" height="541" width="250"\>
 </kbd>
 
 
