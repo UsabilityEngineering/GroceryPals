@@ -58,8 +58,7 @@ In this phase of the project, we:
 
 [Full phase 1 report](phase1/)
 
-## Phase 2: Interaction Design
-
+## Phase 2: User Centered Designed
 [Full phase 2 report](phase2/)
 
 ## Phase 3: Usability Evaluation
