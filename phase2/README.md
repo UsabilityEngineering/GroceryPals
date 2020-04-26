@@ -2,7 +2,6 @@
 
 These are our wireframe Artboards:
   ![alt text](https://raw.githubusercontent.com/UsabilityEngineering/GroceryPals/master/assets/DealsList.png)
-  <a href="assets/DealsList.png"><img src="assets/DealsList.png" width="260" height="520"/></a>
   ![alt text](https://raw.githubusercontent.com/UsabilityEngineering/GroceryPals/master/assets/SEARCH.png)
   ![alt text](https://raw.githubusercontent.com/UsabilityEngineering/GroceryPals/master/assets/MAPPAGE.png)
   ![alt text](https://raw.githubusercontent.com/UsabilityEngineering/GroceryPals/master/assets/SHOPPER.png)
