@@ -60,7 +60,7 @@ In this phase of the project, we:
 
 ## Phase 2: Interaction Design
 
-*Coming soon*
+[Full phase 2 report](phase2/)
 
 ## Phase 3: Usability Evaluation
 
