@@ -3,7 +3,7 @@
 These are our wireframe Artboards:
 
 <kbd>
-  <img src="https://github.com/UsabilityEngineering/GroceryPals/blob/master/phase2/Deals%20List.png" height="541" width="250"/>
+  <a href="assets/12326.jpeg"><img src="https://github.com/UsabilityEngineering/GroceryPals/blob/master/phase2/Deals%20List.png" height="541" width="250"/></a>
 </kbd>
 <kbd>
   <img src="https://github.com/UsabilityEngineering/GroceryPals/blob/master/phase2/SEARCH.png" height="541" width="250"/>
