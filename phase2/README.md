@@ -2,11 +2,11 @@
 
 These are our wireframe Artboards:
 ![alt text](https://github.com/UsabilityEngineering/GroceryPals/blob/master/phase2/Deals%20List.png)
-![alt text](https://github.com/UsabilityEngineering/GroceryPals/blob/master/phase2/MAP%20PAGE.png)
-![alt text](https://github.com/UsabilityEngineering/GroceryPals/blob/master/phase2/SEARCH.png)
-![alt text](https://github.com/UsabilityEngineering/GroceryPals/blob/master/phase2/SHOPPER.png)
-![alt text](https://github.com/UsabilityEngineering/GroceryPals/blob/master/phase2/SHOPPING%20LIST.png)
-![alt text](https://github.com/UsabilityEngineering/GroceryPals/blob/master/phase2/SPECIFIC%20STORE.png)
+
+<kbd>
+  <img src="https://github.com/UsabilityEngineering/GroceryPals/blob/master/phase2/Deals%20List.png">
+</kbd>
+
 
 
 
