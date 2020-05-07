@@ -63,4 +63,5 @@ In this phase of the project, we:
 
 ## Phase 3: Usability Evaluation
 
-*Coming Soon*
+[Full phase 3 report](phase3/README.md/)
+
