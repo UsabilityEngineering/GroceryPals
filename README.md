@@ -20,7 +20,7 @@ Phase 2 Contributions:
 First Draft of XD Prototype, finalization on Github
 
 Phase 3 Contributions:
-Finalizing XD Prototype, Github implementation
+Finalizing XD Prototype, help with protocol, XD Aspect of deliverable
 
 * **Matthew Scheer** - 
 
@@ -31,11 +31,11 @@ Personas,
 Scenarios
 
 Phase 2 Contributions:
-Fianalize Phase 2 XD Deliverable,
+Fianalize Phase 2 XD Deliverable and put Artboards on Github
 
 
 Phase 3 Contributions:
-(to be added upon completion)
+Protocol and Protocol Aspects of Deliverable, Help Finalize Prototype
 
 ## Phase 1: User Inquiry and Inspection
 
