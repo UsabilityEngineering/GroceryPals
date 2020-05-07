@@ -60,9 +60,22 @@ In this phase of the project, we:
 [Full phase 1 report](phase1/)
 
 ## Phase 2: User Centered Designed
+
+**Executive Summary:**
+
+In this phase of the project we created a wireframe to work for our personas in anticipation for the phase 3 Usability Test. 
+
 [Full phase 2 report](phase2/README.md/)
 
 ## Phase 3: Usability Evaluation
+
+**Executive Summary:**
+
+In this phase of the project, we:
+
+* created the final prototype
+* created the protocol
+* ran usability tess
 
 [Full phase 3 report](phase3/README.md/)
 
