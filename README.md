@@ -17,10 +17,10 @@ Findings,
 Supplementary Materials
 
 Phase 2 Contributions:
-(to be added upon completion)
+First Draft of XD Prototype, finalization on Github
 
 Phase 3 Contributions:
-(to be added upon completion)
+Finalizing XD Prototype, Github implementation
 
 * **Matthew Scheer** - 
 
@@ -31,7 +31,8 @@ Personas,
 Scenarios
 
 Phase 2 Contributions:
-(to be added upon completion)
+Fianalize Phase 2 XD Deliverable,
+
 
 Phase 3 Contributions:
 (to be added upon completion)
