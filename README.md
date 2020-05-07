@@ -7,7 +7,7 @@ problem is to create a way for consumers to look at the different prices of item
 
 ## Team Members of Team Grocery Pals
 
-* **Austin Dollar** - 
+* **Austin Dollar** - https://usabilityengineering.github.io/uxportfolio-a-ddollar-cs/
 
 Phase 1 Contributions:
 Introduction,
