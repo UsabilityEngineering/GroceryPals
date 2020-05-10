@@ -2,8 +2,7 @@
 
 **Link to Protocol PDF:**
 
-https://github.
-com/UsabilityEngineering/GroceryPals/blob/master/assets/Protocol.pdf
+https://github.com/UsabilityEngineering/GroceryPals/blob/master/assets/Protocol.pdf
 
 **Explanation of protocol tasks:**
 
