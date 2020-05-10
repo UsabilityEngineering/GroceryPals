@@ -2,11 +2,24 @@
 
 **Link to Protocol PDF:**
 
-https://github.com/UsabilityEngineering/GroceryPals/blob/master/assets/Protocol.pdf
+https://github.
+com/UsabilityEngineering/GroceryPals/blob/master/assets/Protocol.pdf
 
 **Explanation of protocol tasks:**
 
-Explanation Here
+Protocol tasks
+
+The goal of the protocol tasks is to see if the user is able to navigate to a store location with the appropriate item.
+
+
+User, please look for “Corona beer”
+
+Find the best item for 8-10 people.
+
+Find the best deal that is close to your location.
+
+What store would you go to for the selected beverage? 
+
 
 **Overall Approach to Study:**
 
